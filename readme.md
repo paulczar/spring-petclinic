@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status]()
+# Spring PetClinic Sample Application
 
 
 
